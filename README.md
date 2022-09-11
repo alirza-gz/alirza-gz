@@ -33,7 +33,7 @@
    <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white"/>
    
    <div>
-   <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=alirza-gz&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=10&layout=compact&border_color=61dafb&hide_border=true)(https://github.com/alirza-gz/github-readme-stats">
+   <img width="300" src=https://github-readme-stats.vercel.app/api/top-langs/?username=alirza-gz&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=10&layout=compact&border_color=61dafb&hide_border=true)(https://github.com/alirza-gz/github-readme-stats">
 </div>
 </div>
 <br>
