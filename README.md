@@ -2,9 +2,11 @@
 
 ### I'm a junior FrontEnd developer and Software Engineer
 Freelancer and FrontEnd Developer with +2 years experience.<br>
-22 years old and CE student.
 
-#### - 📫 How to reach me:
+- 👀 I’m 22 years old and CE student.
+- 💻 I’m interested in web design and programming.
+
+#### - 📫 You can reach me on: [linkedin](https://www.linkedin.com/in/alireza-gholizadeh)
 
 <br>
 
