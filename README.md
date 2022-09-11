@@ -33,11 +33,12 @@ Freelancer and FrontEnd Developer with +2 years experience.<br>
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 #### Other: <br>
-<img src="https://img.shields.io/badge/-Algorithms-1C78C0?style=flat-square&logo=Algorithms&logoColor=white"/>
+![Algorithms]("https://img.shields.io/badge/-Algorithms-1C78C0?style=flat-square&logo=Algorithms&logoColor=white)
+<!-- <img src="https://img.shields.io/badge/-Algorithms-1C78C0?style=flat-square&logo=Algorithms&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Data%20Structures-E4405F?style=flat-square&logo=DataStructures&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Arduino-23A9F2?style=flat-square&logo=Arduino&logoColor=white"/>
-<img src="https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white"/>
-<br>
+<img src="https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white"/> -->
+
 <div>
       <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=alirza-gz&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=10&layout=compact&border_color=61dafb&hide_border=true)(https://github.com/alirza-gz/github-readme-stats">
 </div>
