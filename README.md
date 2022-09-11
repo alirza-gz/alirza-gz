@@ -1,6 +1,7 @@
 ## Hi I'm Alireza 👋
 
-<img align="right" height=230 src= "https://user-images.githubusercontent.com/64093004/189521894-75c31948-3701-442a-b7a6-2e2e222dccf9.svg" alt="just for fun :D">
+<img align="right" width="230" src= "https://user-images.githubusercontent.com/64093004/189521894-75c31948-3701-442a-b7a6-2e2e222dccf9.svg" alt="just for fun :D">
+
 ### I'm a junior FrontEnd developer and Software Engineer
 Freelancer and FrontEnd Developer with +2 years experience.<br>
 22 years old and CE student.
