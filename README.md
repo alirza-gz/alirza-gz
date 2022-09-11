@@ -4,5 +4,5 @@
 <br>
 
 <h2 align="center">
-   I'm Alireza Gholizadeh, a junior software engineer and Front-End Developr👨🏻‍💻<br>
+   I'm Alireza Gholizadeh, a junior software engineer and Front-End Developer💻<br>
 </h2>
