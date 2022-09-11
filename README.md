@@ -33,7 +33,7 @@ Freelancer and FrontEnd Developer with +2 years experience.<br>
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 #### Other: <br>
-![Algorithms]("https://img.shields.io/badge/-Algorithms-1C78C0?style=flat-square&logo=Algorithms&logoColor=white)
+![Algorithms](https://img.shields.io/badge/-Algorithms-1C78C0?style=flat-square&logo=Algorithms&logoColor=white)
 <!-- <img src="https://img.shields.io/badge/-Algorithms-1C78C0?style=flat-square&logo=Algorithms&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Data%20Structures-E4405F?style=flat-square&logo=DataStructures&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Arduino-23A9F2?style=flat-square&logo=Arduino&logoColor=white"/>
