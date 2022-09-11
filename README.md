@@ -48,7 +48,7 @@ Freelancer and FrontEnd Developer with +2 years experience.<br>
   <table border="0" cellspacing="0" cellpadding="0">
     <tr>
         <td>
-          ![Anurag's GitHub stats]{https://github-readme-stats.vercel.app/api?username=alirza-gz&theme=github_dark&show_icons=true)
+          [![Anurag's GitHub stats]{https://github-readme-stats.vercel.app/api?username=alirza-gz&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
         </td>
         <td>
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirza-gz&layout=compact&langs_count=10"/>
