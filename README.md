@@ -1,6 +1,6 @@
 ## Hi I'm Alireza 👋
 
-### I'm a junior FrontEnd developer and Software Engineer from Iran 🇮🇷
+### I'm a junior FrontEnd developer and Software Engineer
 Freelancer and FrontEnd Developer with +2 years experience.<br>
 22 years old and CE student.
 
@@ -38,10 +38,6 @@ Freelancer and FrontEnd Developer with +2 years experience.<br>
 ![Arduino](https://img.shields.io/badge/-Arduino-23A9F2?style=for-the-badge&logo=Arduino&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-<!-- <div>
-      <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=alirza-gz&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=10&layout=compact&border_color=61dafb&hide_border=true)(https://github.com/alirza-gz/github-readme-stats">
-</div> -->
-
 <hr>
 
 <details>	
@@ -49,7 +45,7 @@ Freelancer and FrontEnd Developer with +2 years experience.<br>
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=362 src="https://github-readme-stats.vercel.app/api?username=alirza-gz&count_private=true&theme=tokyonight&hide=contribs,prs" alt="zumrudu-anka" />
+      <img align="left" width=360 src="https://github-readme-stats.vercel.app/api?username=alirza-gz&count_private=true&theme=tokyonight&hide=contribs,prs" alt="zumrudu-anka" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="right" width=380 src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirza-gz&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
