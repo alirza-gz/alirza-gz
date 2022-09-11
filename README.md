@@ -54,18 +54,8 @@ Freelancer and FrontEnd Developer with +2 years experience.<br>
     </tr>
     <tr>
         <td>
-            <img width="480" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirza-gz&layout=compact&langs_count=10&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&border_color=61dafb&hide_border=true"/>
+            <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirza-gz&layout=compact&langs_count=10&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&border_color=61dafb&hide_border=true"/>
         </td>
     </tr>
   </table>
-<!--   <table border="0" cellspacing="0" cellpadding="0">
-    <tr>
-        <td>
-          <img src="https://github-readme-stats.vercel.app/api?username=alirza-gz&theme=github_dark&show_icons=true">
-        </td>
-        <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirza-gz&layout=compact&langs_count=10&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&border_color=61dafb&hide_border=true"/>
-        </td>
-    </tr>
-  </table> -->
 </details>
