@@ -54,3 +54,7 @@ Freelancer and FrontEnd Developer with +2 years experience.<br>
 </p>
 </details>
 
+<hr>
+
+<img src= "https://user-images.githubusercontent.com/64093004/189521894-75c31948-3701-442a-b7a6-2e2e222dccf9.svg" alt="just for fun :D">
+
