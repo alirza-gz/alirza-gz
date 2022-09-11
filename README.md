@@ -34,6 +34,6 @@
 </div>
 <br>
 <div>
-   <img align="left" src=https://github-readme-stats.vercel.app/api/top-langs/?username=alirza-gz&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=10&layout=compact&border_color=61dafb&hide_border=true)(https://github.com/alirza-gz/github-readme-stats">
+   <img width="70%" src=https://github-readme-stats.vercel.app/api/top-langs/?username=alirza-gz&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=10&layout=compact&border_color=61dafb&hide_border=true)(https://github.com/alirza-gz/github-readme-stats">
 </div>
 
