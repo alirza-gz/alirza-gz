@@ -51,7 +51,7 @@ Freelancer and FrontEnd Developer with +2 years experience.<br>
           <img src="https://github-readme-stats.vercel.app/api?username=alirza-gz&theme=github_dark&show_icons=true">
         </td>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirza-gz&theme=github_dark&layout=compact&langs_count=10"/>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirza-gz&theme=github_dark&langs_count=10"/>
         </td>
     </tr>
 </table>
