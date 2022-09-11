@@ -8,4 +8,4 @@
 </h2>
 
 <h4> My technical skills: <h4>
-<img src= "(https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)">
+<img src= "https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
