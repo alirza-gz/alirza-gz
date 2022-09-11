@@ -7,7 +7,7 @@
    - I'm Alireza Gholizadeh, a junior Software Engineer and Front-End Developer -<br>
 </h3>
 
-<p>
+<div>
    <h2> My technical skills: </h2>
    <img src= "https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
    <img src= "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
@@ -31,8 +31,9 @@
    <img src="https://img.shields.io/badge/-VHDL-4C5459?style=flat-square&logo=VHDL&logoColor=white"/>
    <img src="https://img.shields.io/badge/-Arduino-23A9F2?style=flat-square&logo=Arduino&logoColor=white"/>
    <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white"/>
-   
-   <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=alirza-gz&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=10&layout=compact&border_color=61dafb&hide_border=true)(https://github.com/alirza-gz/github-readme-stats">
-</p>
+</div>
 <br>
+<div>
+      <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=alirza-gz&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=10&layout=compact&border_color=61dafb&hide_border=true)(https://github.com/alirza-gz/github-readme-stats">
+</div>
 
