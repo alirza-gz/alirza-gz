@@ -1,6 +1,6 @@
 ## Hi I'm Alireza <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="#"><img src="assets/Alirza.png" align="right" height="350" /></a>
+<a href="#"><img src="assets/Alirza.png" align="right" height="320" /></a>
 ### I'm a junior FrontEnd developer and Software Engineer
 Freelancer and FrontEnd Developer with +2 years experience.<br>
 
