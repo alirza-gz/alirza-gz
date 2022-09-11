@@ -7,5 +7,5 @@
    - I'm Alireza Gholizadeh, a junior Software Engineer and Front-End Developer -<br>
 </h2>
 
-<h6> My technical skills: <h6>
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+<h4> My technical skills: <h4>
+<img src= "(https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)">
