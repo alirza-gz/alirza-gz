@@ -46,9 +46,9 @@ Freelancer and FrontEnd Developer with +2 years experience.<br>
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
   <br>
-    <table border="0" cellspacing="0" cellpadding="0" width="100%">
+    <table border="0" cellspacing="0" cellpadding="0">
     <tr>
-        <td>
+        <td width="100%">
           <img src="https://github-readme-stats.vercel.app/api?username=alirza-gz&theme=github_dark&show_icons=true">
         </td>
     </tr>
