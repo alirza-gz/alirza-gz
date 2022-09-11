@@ -6,7 +6,8 @@ Freelancer and FrontEnd Developer with +2 years experience.<br>
 - 👀 I’m 22 years old and CE student.
 - 💻 I’m interested in web design and programming.
 
-#### - 📫 You can reach me on: [linkedin](https://www.linkedin.com/in/alireza-gholizadeh) , [instagram](https://www.instagram.com/Alirzagz) , [telegram](https://www.t.me/alirzagz)
+<!-- #### - 📫 You can reach me on: [linkedin](https://www.linkedin.com/in/alireza-gholizadeh) , [instagram](https://www.instagram.com/Alirzagz) , [telegram](https://www.t.me/alirzagz) -->
+#### - 📫 You can reach me on: [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)(https://www.linkedin.com/in/alireza-gholizadeh)
 
 <br>
 
