@@ -33,5 +33,7 @@
    <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white"/>
 </div>
 
-<div> </div>
+<div>
+   <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=alirza-gz&layout=compact)(https://github.com/alirza-gz/github-readme-stats">
+</div>
 
