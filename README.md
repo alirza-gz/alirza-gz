@@ -42,7 +42,7 @@
 
 <hr>
 
-<details>	
+<details open>	
   <summary><b>⚡ Github Stats</b></summary>
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=alirza-gz&show_icons=true" height="160" />
