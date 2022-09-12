@@ -47,18 +47,6 @@
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=alirza-gz&theme=github_dark&show_icons=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirza-gz&layout=compact&langs_count=10&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&border_color=61dafb&hide_border=true" height="180" />
-<!--     <table border="0" cellspacing="0" cellpadding="0">
-    <tr>
-        <td>
-          <img width="495" src="https://github-readme-stats.vercel.app/api?username=alirza-gz&theme=github_dark&show_icons=true">
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <img width="495" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirza-gz&layout=compact&langs_count=10&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&border_color=61dafb&hide_border=true"/>
-        </td>
-    </tr>
-  </table> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=alirza-gz&show_icons=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirza-gz&layout=compact&langs_count=10hide_border=true" height="180" />
 </details>
