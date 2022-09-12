@@ -2,10 +2,10 @@
 
 <a href="#"><img src="assets/Alirza.png" align="right" height="255"/></a>
 ### I'm a junior FrontEnd developer and Software Engineer
-Freelancer and FrontEnd Developer with +2 years experience.<br>
 
-- 👀 I’m 22 years old and CE student.
-- 💻 I’m interested in web design and programming.
+> Welcome to my page !<br>
+> 👀 I’m 22 years old and Computer Engineering student interested in the web world. I work as a FrontEnd developer and I have various activities in this field I started in 2020.<br>
+> I have a serious passion for learning new things and creating better user interface experiences. Fast load times and lag free interaction , writing clean and efficient code are my highest priorities.<br>
 
 #### - 📫 You can reach me on: [Linkedin](https://www.linkedin.com/in/alireza-gholizadeh) , [Instagram](https://www.instagram.com/Alirzagz) , [Telegram](https://www.t.me/alirzagz) , [Gmail](mailto:alireza.niceee@gmail.com) .
 
