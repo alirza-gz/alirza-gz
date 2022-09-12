@@ -10,6 +10,13 @@
 
 <br>
 
+<details>	
+  <summary><b>⚡ Github Stats</b></summary>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=alirza-gz" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirza-gz&layout=compact" height="180" />
+</details>
+
 ## ⚡ Tech Stack
 
 #### Languages, Frameworks, Platforms and Libraries: <br>
@@ -43,7 +50,7 @@
 <hr>
 
 <details>	
-  <summary><h3>⚡ Github Stats</h3></summary>
+  <summary><b>⚡ Github Stats</b></summary>
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=alirza-gz" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirza-gz&layout=compact" height="180" />
