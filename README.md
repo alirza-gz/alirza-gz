@@ -43,14 +43,14 @@
 <hr>
 
 <details>	
-  <summary><b>⚡ Github Stats</b></summary>
+  <summary><h3>⚡ Github Stats</h3></summary>
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=alirza-gz&show_icons=true" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirza-gz&layout=compact&langs_count=10&hide_border=true" height="160" />
 </details>
 
 <details open>
-<summary> <b>📫 Contact me </b></summary>
+<summary> <h3>📫 Contact me </h3></summary>
  <br>
   <p align="center">
   <a href="https://www.linkedin.com/in/alirzagz/"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-alirzagz-blue?style=for-the-badge&logo=linkedin"></a>
