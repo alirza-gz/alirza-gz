@@ -43,7 +43,7 @@
 <hr>
 
 <details>	
-  <summary><b>⚡ Github Stats</b></summary>
+  <summary><h3>⚡ Github Stats</h3></summary>
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=alirza-gz" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirza-gz&layout=compact" height="180" />
