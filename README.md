@@ -8,8 +8,6 @@
 > I have a serious passion for learning new things and creating better user interface experiences.<br>
 >  Fast load times and lag free interaction , writing clean and efficient code are my highest priorities.<br>
 
-<!-- #### - 📫 You can reach me on: [Linkedin](https://www.linkedin.com/in/alireza-gholizadeh) , [Instagram](https://www.instagram.com/Alirzagz) , [Telegram](https://www.t.me/alirzagz) , [Gmail](mailto:alireza.niceee@gmail.com) . -->
-
 <br>
 
 ## ⚡ Tech Stack
@@ -55,7 +53,7 @@
 <summary> <b>📫 Contact me </b></summary>
  <br>
 <p align="center">
-<a href="https://www.linkedin.com/in/alireza-gholizadeh/"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-alirezagholizadeh-blue?style=for-the-badge&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/alirzagz/"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-alirzagz-blue?style=for-the-badge&logo=linkedin"></a>
 <a href="mailto:alireza.niceee@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-alireza.niceee@gmail.com-orange?style=for-the-badge&logo=gmail"></a>
 <a href="https://www.instagram.com/Alirzagz"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-alirzagz-red?style=for-the-badge&logo=instagram"></a>
 <a href="https://www.t.me/alirzagz"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-alirzagz-blue?style=for-the-badge&logo=telegram"></a>
