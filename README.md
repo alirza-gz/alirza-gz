@@ -55,7 +55,7 @@
 <summary> <b>📫 Contact me </b></summary>
  <br>
 <p align="center">
-<a href="https://www.linkedin.com/in/alireza-gholizadeh"><img alt="LinkedIn" src="https://img.shields.io/badge/Linedin-alireza-gholizadeh-blue?style=for-the-badge&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/alireza-gholizadeh"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-alireza-gholizadeh-blue?style=for-the-badge&logo=linkedin"></a>
 <a href="mailto:alireza.niceee@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-alireza.niceee@gmail.com-blue?style=for-the-badge&logo=gmail"></a>
 <a href="https://www.instagram.com/Alirzagz"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-alirzagz-blue?style=for-the-badge&logo=instagram"></a>
 </p>
