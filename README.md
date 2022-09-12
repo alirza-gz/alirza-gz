@@ -8,7 +8,7 @@
 > I have a serious passion for learning new things and creating better user interface experiences.<br>
 >  Fast load times and lag free interaction , writing clean and efficient code are my highest priorities.<br>
 
-#### - 📫 You can reach me on: [Linkedin](https://www.linkedin.com/in/alireza-gholizadeh) , [Instagram](https://www.instagram.com/Alirzagz) , [Telegram](https://www.t.me/alirzagz) , [Gmail](mailto:alireza.niceee@gmail.com) .
+<!-- #### - 📫 You can reach me on: [Linkedin](https://www.linkedin.com/in/alireza-gholizadeh) , [Instagram](https://www.instagram.com/Alirzagz) , [Telegram](https://www.t.me/alirzagz) , [Gmail](mailto:alireza.niceee@gmail.com) . -->
 
 <br>
 
@@ -49,4 +49,14 @@
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=alirza-gz&show_icons=true" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirza-gz&layout=compact&langs_count=10hide_border=true" height="180" />
+</details>
+
+<details open>
+<summary> <b>📫 Contact me </b></summary>
+ <br>
+<p align="center">
+<a href="https://www.linkedin.com/in/alireza-gholizadeh"><img alt="LinkedIn" src="https://img.shields.io/badge/Linedin-alireza-gholizadeh-blue?style=for-the-badge&logo=linkedin"></a>
+<a href="mailto:alireza.niceee@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-alireza.niceee@gmail.com-blue?style=for-the-badge&logo=gmail"></a>
+<a href="https://www.instagram.com/Alirzagz"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-alirzagz-blue?style=for-the-badge&logo=instagram"></a>
+</p>
 </details>
