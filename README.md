@@ -46,7 +46,7 @@
   <summary><b>⚡ Github Stats</b></summary>
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=alirza-gz" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirza-gz&layout=compact&langs_count=10hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirza-gz&layout=compact&langs_count=10" height="180" />
 </details>
 
 <details open>
