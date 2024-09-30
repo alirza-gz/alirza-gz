@@ -3,10 +3,9 @@
 <a href="#"><img src="assets/Alirza.png" align="right" height="255"/></a>
 ### I'm a junior FrontEnd developer and Software Engineer
 
-> 👀 I’m 24 years old and Computer Engineering student interested in the web world.<br>
-> I work as a FrontEnd developer and I have various activities in this field I started in 2020.<br>
-> I have a serious passion for learning new things and creating better user interface experiences.<br>
->  Fast load times and lag free interaction , writing clean and efficient code are my highest priorities.<br>
+> Greetings! As a passionate Front-End Developer, I am eager to leverage my solid foundation in HTML, CSS, JavaScript, TailwindCSS, React, Redux, and more to create seamless user experiences.<br>
+> With a keen interest in web development, I continuously strive to stay ahead of industry trends and am excited to contribute to innovative projects.<br>
+> I am seeking opportunities to further develop my skills in a full-time or contract role where I can collaborate with dynamic teams.<br>
 
 <br>
 
