@@ -2,9 +2,9 @@
 
 ### I'm a junior FrontEnd developer and Software Engineer
 
-> Greetings! As a passionate Front-End Developer, I am eager to leverage my solid foundation in HTML, CSS, JavaScript, TailwindCSS, React, Redux, and more to create seamless user experiences.<br>
-> With a keen interest in web development, I continuously strive to stay ahead of industry trends and am excited to contribute to innovative projects.<br>
-> I am seeking opportunities to further develop my skills in a full-time or contract role where I can collaborate with dynamic teams.<br>
+> Greetings! As a passionate Frontend Developer with expertise in React, TailwindCSS, and REST APIs, focused on creating seamless user experiences.<br>
+> Dedicated to delivering high-quality, scalable applications, and continuously learning the latest industry trends.<br>
+> Actively seeking opportunities to contribute to impactful projects and collaborate with dynamic teams in a full-time or contract role.<br>
 
 <br>
 
